@@ -1,0 +1,2 @@
+# Tridex
+Trident + Idex + Ezbake
