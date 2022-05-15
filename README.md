@@ -36,3 +36,9 @@ Needed for conversion from stock Trident (250x250):
 -1 complete additional toolhead in parts
 
 -Control board capable of driving 7 motors (2 Y, 2 X, 3 Z)
+
+
+
+Recent Changes: 
+5/15/22 - Added 'TridexGantryTrimmedFiles.f3d'
+			- Includes updated gantry parts that allow more movement on Y Axis.
