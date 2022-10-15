@@ -1,5 +1,34 @@
 # Tridex Bill of Materials
 
+## Core Items:
+
+- Trident Kit (250x250mm)
+- Purchasing New Frame:
+  - 4 HFSB5-2020-500-LCP-RCP-AV360
+  - 3 HFSB5-2020-470-TPW
+  - 1 HFSB5-2020-470-AH235-TPW
+  - 1 HFSB5-2020-470-AH235
+  - 1 HFSB5-2020-430
+  - 6 HFSB5-2020-370-TPW
+  - 1 HFSB5-2020-340
+  - 1 HFSB5-2020-330-LTP
+  - 1 HFSB5-2020-232-LTP
+  - 2 DIN Rails (35mm W) - 470mm
+- Frame Conversion from 250x250 Stock to Trident:
+  - +3 HFSB5-2020-470-TPW
+  - +1 HFSB5-2020-470-AH235-TPW
+  - +1 HFSB5-2020-470-AH235
+  - +1 HFSB5-2020-430
+  - +1 HFSB5-2020-340
+  - +2 DIN Rails (35mm W) - 470mm
+- Stealthburner Kit (for 2nd toolhead)
+- MGN12H 400mm with 2 MGN12H Carriages
+- 2 CAN Toolhead boards with CAN interface
+- 7+ Driver capable control board
+- 4 new Gates 2GT Belts
+  - Y belt length = ~800mm * 2 belts
+  - X belt length = ~1900mm * 2 belts
+
 ## Front Idlers:
 
 - **4 M5x50mm SHCS** 
@@ -30,3 +59,21 @@
 
 ## Drive Modules
 
+- **4 NEMA14 Stepper Motors (V0.1 Style) - Options:**
+  - LDO-35STH52-1504AH(VRN)
+  - OMC 14HS20-1504S
+  - LDO 35STH48-1684AH(VRN) 
+  - (Ideally longer wiring harnesses than V0.1 to reach the bottom of the printer)
+- 4 M5x30 BHCS
+- 4 M5x16 BHCS
+- 14 M5x10 BHCS
+- 16 M5 2020 T-Nuts
+- 12 M5 Shims
+- 12 F695 Bearings
+- 8 M3x30 SHCS
+- **6 M3x20 SHCS**
+- **4 2GT 20T Pulleys (5mm Bore)**
+- **2 Omron Microswitches**
+- **4 M2x10 Self Tapping Screws**
+
+## 
