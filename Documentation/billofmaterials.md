@@ -7,15 +7,15 @@ Items in **bold** are new items vs. a stock Trident build
 - Trident Kit (250x250mm)
 - Frame Extrusions:
   - 4 HFSB5-2020-500-LCP-RCP-AV360
-  - **+3 HFSB5-2020-470-TPW**
-  - **+1 HFSB5-2020-470-AH235-TPW**
-  - **+1 HFSB5-2020-470-AH235**
-  - **+1 HFSB5-2020-430**
+  - **3 HFSB5-2020-470-TPW**
+  - **1 HFSB5-2020-470-AH235-TPW**
+  - **1 HFSB5-2020-470-AH235**
+  - **1 HFSB5-2020-430**
   - 6 HFSB5-2020-370-TPW
-  - **+1 HFSB5-2020-340**
+  - **1 HFSB5-2020-340**
   - 1 HFSB5-2020-330-LTP
   - 1 HFSB5-2020-232-LTP
-  - **+2 DIN Rails (35mm W) - 470mm**
+  - **2 DIN Rails (35mm W) - 470mm**
 - **Stealthburner Kit (for 2nd toolhead)**
 - **MGN12H 400mm with 2 MGN12H Carriages**
 - **2 CAN Toolhead boards with CAN interface**
