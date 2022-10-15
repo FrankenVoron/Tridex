@@ -7,19 +7,14 @@ It adds:
 
 -IDEX toolheads
 
--2040/4040 frame with EZBake front door for additional insulation
-
--Updated front skirt files for flush appearance with door
-
-All files are in "alpha" state--functional, but not optimized. Use them at your own risk, no support is implied :) 
+All files are in "beta" state--functional, but not complete. Use them at your own risk, no support is implied :) 
 
 ![Fusion360_BgZ3UrNNhE](https://user-images.githubusercontent.com/11861478/147276308-37a7ae89-d276-4e3b-b2ec-65ea3f8aff72.png)
 
 
-
 Needed for conversion from stock Trident (250x250):
 
--Additional extrusions
+-new Width extrusions
 
 -MGN12 rail (400mm long) with dual MGN12H carriages
 
@@ -27,9 +22,9 @@ Needed for conversion from stock Trident (250x250):
 
 -New Gates belts (4 total)
 
--2 GT2 20T idlers (not genuine Gates type--they are too tall), 2 GT2 20T pulleys
+-2 GT2 20T idlers, 2 GT2 20T pulleys
 
--2 Huvud CAN Toolhead boards
+-2 CAN Toolhead boards
 
 -1 CAN adapter for Raspberry Pi (such as Waveshare)
 
