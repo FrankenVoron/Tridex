@@ -71,4 +71,6 @@ Items in **bold** are new items vs. a stock Trident build
 - **2 Omron Microswitches**
 - **4 M2x10 Self Tapping Screws**
 
-## 
+## Panels
+
+- Top/Back/Deck/Electronics/Door panels are widened by 100mm
