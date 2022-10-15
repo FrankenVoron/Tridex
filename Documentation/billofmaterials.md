@@ -49,8 +49,8 @@ Items in **bold** are new items vs. a stock Trident build
 - **10 M3x20 SHCS**
 - 4 M3x16 SHCS
 - **2 M3 2020 T-Nut**
-- 4 M3 Heatset Inserts
-- High Temp Silicone Wiper
+- **4 M3 Heatset Inserts**
+- **High Temp Silicone Wiper**
 
 ## Drive Modules
 
