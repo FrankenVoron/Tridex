@@ -1,5 +1,7 @@
 # Tridex Bill of Materials
 
+Items in **bold** are new items vs. a stock Trident build
+
 ## Core Items:
 
 - Trident Kit (250x250mm)
@@ -15,19 +17,19 @@
   - 1 HFSB5-2020-232-LTP
   - 2 DIN Rails (35mm W) - 470mm
 - Frame Conversion from 250x250 Stock to Trident:
-  - +3 HFSB5-2020-470-TPW
-  - +1 HFSB5-2020-470-AH235-TPW
-  - +1 HFSB5-2020-470-AH235
-  - +1 HFSB5-2020-430
-  - +1 HFSB5-2020-340
-  - +2 DIN Rails (35mm W) - 470mm
-- Stealthburner Kit (for 2nd toolhead)
-- MGN12H 400mm with 2 MGN12H Carriages
-- 2 CAN Toolhead boards with CAN interface
-- 7+ Driver capable control board
-- 4 new Gates 2GT Belts
-  - Y belt length = ~800mm * 2 belts
-  - X belt length = ~1900mm * 2 belts
+  - **+3 HFSB5-2020-470-TPW**
+  - **+1 HFSB5-2020-470-AH235-TPW**
+  - **+1 HFSB5-2020-470-AH235**
+  - **+1 HFSB5-2020-430**
+  - **+1 HFSB5-2020-340**
+  - **+2 DIN Rails (35mm W) - 470mm**
+- **Stealthburner Kit (for 2nd toolhead)**
+- **MGN12H 400mm with 2 MGN12H Carriages**
+- **2 CAN Toolhead boards with CAN interface**
+- **7+ Driver capable control board**
+- **4 new Gates 2GT Belts**
+  - **Y belt length = ~800mm * 2 belts**
+  - **X belt length = ~1900mm * 2 belts**
 
 ## Front Idlers:
 
