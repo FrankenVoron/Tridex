@@ -41,7 +41,7 @@ Items in **bold** are new items vs. a stock Trident build
 ## XY Joints:
 
 - 8 M5x40 SHCS
-- 8 M5 Hexnuts
+- 6 M5 Hexnuts
 - 4 M5 Washers/Shims
 - 4 M5 2020 T-Nut
 - 4 F695 Bearings
@@ -60,7 +60,7 @@ Items in **bold** are new items vs. a stock Trident build
   - LDO 35STH48-1684AH(VRN) 
   - (Ideally longer wiring harnesses than V0.1 to reach the bottom of the printer)
 - 4 M5x30 BHCS
-- 4 M5x16 BHCS
+- **4 M5x16 BHCS**
 - 14 M5x10 BHCS
 - 16 M5 2020 T-Nuts
 - 12 M5 Shims
