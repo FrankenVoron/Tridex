@@ -13,6 +13,7 @@ Build Area:
 
 - Single Toolhead: 225x250x250mm
 - Dual Toolhead: 205x250x250mm
+- Mirrored/Duplication: Not currently supported with Klipper
 
 Maximum Acceleration:
 
