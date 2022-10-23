@@ -1,4 +1,7 @@
 # Tridex
+
+<img width="880" alt="Screen_Shot_2022-10-16_at_11 43 59_AM" src="https://user-images.githubusercontent.com/11861478/196045878-15abce0f-acf1-4f9c-a138-cd220791d739.png">
+
 ## Overview
 
 The primary purpose of this IDEX (Independent Dual EXtrusion) printer is to enable dual material prints for soluble/removable supports (ie, ABS primary material + HIPS support material). Other methods of printing dual materials within a single toolhead (such as using a Y splitter, MMU, Palette, etc) have issues due to mixing/contamination within the nozzle which may cause poor layer adhesion. As well, these methods require fairly substantial purge blocks, which generally can be avoided with an IDEX design! 
@@ -20,5 +23,3 @@ Maximum Acceleration:
 - Recommended 2000-4000 mm/s^2
 
 This printer is based on the official Voron Trident release files: https://github.com/VoronDesign/Voron-Trident/releases
-
-<img width="880" alt="Screen_Shot_2022-10-16_at_11 43 59_AM" src="https://user-images.githubusercontent.com/11861478/196045878-15abce0f-acf1-4f9c-a138-cd220791d739.png">
