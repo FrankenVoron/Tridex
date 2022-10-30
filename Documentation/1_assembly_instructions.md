@@ -8,19 +8,51 @@ Follow the Trident manual, skipping the Front Idler, A/B Drive, and X Axis assem
 
 ## Part 2: Drive Modules
 
-Prepare for drive module assembly by soldering wire leads to the Y microswitches, and mounting each switch to the accent piece. Route the wire leads through the hole in the drive module lowers. Mount the pulleys to all 4 motors using the alignment jig. Secure the Y motors to the drive module lowers by screwing M3xXX screws through the lower and the motor mounts, fully tightening as there will not be access to these screws later. Press the upper and lower drive module pieces into the mid accent piece, making sure the wire routing for the Y endstops is still correct. Position the X motor in place, making sure the endstop wires align in the channel. Partially screw in the M3x30mm screws to hold the X motor in place. 
+Follow PDF instructions in this folder, and then install each drive module onto the gantry:
 
-Once both drive modules are assembled, mount to the printer by sliding onto the Y extrusion, and pressing backwards into the rear vertical extrusions. Note--if you cannot get the drive modules to fit due to interference with the MGN9 Y rails, loosen the MGN9 rail and slide forward slightly to give clearance. Insert the rear crossbar extrusion between the drive modules, and check drive modules, etc for alignment. Install screws for the bottom of the drive modules into the Y and vertical extrusions first, lightly tightening, and checking for alignment before fully tightening down. 
-
-Once the drive modules are fully installed, install mounting brackets between the rear crossbar and rear center Z extrusion. Slide the MGN9 Y rails backwards until they touch the drive modules, then use the MGN9 3d printed alignment tools to make sure the Y rails are centered and tighten down.
+![Fusion360_jOAN20uSyg](https://user-images.githubusercontent.com/11861478/198882337-b68666b8-15e0-41cd-8b73-8d8e9634e809.png)
 
 ## Part 3: Front Idlers
 
-Assemble the front idlers with only the X tensioners (note the markings - LX for left X, and RX for right X tensioner) + washer/bearing/bearing/washer stack, using the same assembly method used for standard Voron Trident front idlers. Keep the M5x50mm bolt partially loose, so the front idler halves can flex slightly when you slide it onto the Y extrusion slots. The tabs on the idlers should fit in the vertical extrusions. Lightly snug the M5x10 and M5x16 bolts on the bottom of the front idler, making sure the idler contacts both the Y and vertical extrusions, then tighten completely. Secure the top half of the idlers to the Y extrusion with 2x M5x10 BHCS. 
+Follow PDF instructions in this folder, and then install each front idler onto the gantry:
+
+![Fusion360_WQIAOHZXhy](https://user-images.githubusercontent.com/11861478/198882399-be3b83a5-03ee-4053-9f05-458af4c4baae.png)
+
+After securing the front idlers and drive modules, install/slide the MGN9 Y rails backwards until they contact the drive modules. Use the MGN9 3d printed alignment tools to make sure the rail is centered, and secure the rail to the 2020 extrusion.
+
+![Fusion360_HXndMWOubw](https://user-images.githubusercontent.com/11861478/198882496-b5818bec-bf86-4203-ba7d-38b0c528f782.png)
+
+There will be a gap on the front idlers. This is to allow variation in MGN9 length as well as make it easier to install/remove the drive modules/front idlers if needed in the future without completely removing the MGN9 rail. 
+
+![Fusion360_wkdUuxeDLE](https://user-images.githubusercontent.com/11861478/198882592-ce803de0-4dc9-4b81-946b-10bda13a6309.png)
 
 ## Part 4: XY Joints/Y Belts
 
-Unlike standard Voron Trident XY joint assemblies, the Tridex XY joints must be assembled on the printer in stages. Mount the XY joint lowers to the MGN9 Y rails. Route a Y belt around the Y motor/pulley, then through the front idler, inserting the GT2 pulley in the front idler, pulling the belt into place. Temporarily insert the M5x50 screw through the front idler to hold the GT2 pulley in the furthest back position. Take the XY joint mid piece, hold the Y belt tight, and mark where the belt should be to fully insert into both grooves in the 3d printed part. Remove the Y belt, cut Y belt to length, and then cut a second Y belt to an identical length for the other side. Reroute the Y belts on both sides, inserting into the 3d printed parts. If extra slack is needed, remove the M5x50 screw for the GT2 pulley temporarily to allow the pulley to slide backwards slightly. Once the belt is inserted into the XY joint mid part, snap the mid piece onto the XY joint lower, using the locating features to hold it in place. Note, the Y idler tensioner doesn't have to be installed at this point. This will make it easier to route the X belts later.
+Unlike standard Voron Trident XY joint assemblies, the Tridex XY joints must be assembled on the printer in stages. Mount the XY joint lowers to the MGN9 Y rails:
+
+![Fusion360_Avvm7I7o4f](https://user-images.githubusercontent.com/11861478/198882642-7c12b489-7e8f-42ce-8aa5-1d60840bf631.png)
+
+Then, take a length of GT2 belt and feed it through the back of the front idler, loop around a GT2 idler, and then feed it through the other opening in the front idler:
+
+![Fusion360_W7kKqY3unr](https://user-images.githubusercontent.com/11861478/198882913-fbe16b50-f011-455f-a9c3-72717587b1f8.png)
+
+Gently pull the belt out the back of the front idler. This will pull the GT2 idler into place.
+
+![Fusion360_r93V2uPN1i](https://user-images.githubusercontent.com/11861478/198882958-d4fadcef-a16f-4a0a-880b-29dff531e744.png)
+
+Temporarily insert a M5x50 SHCS through the front idler (without the tensioner arm in place) to hold the GT2 pulley
+
+![Fusion360_IgsPVKHUWK](https://user-images.githubusercontent.com/11861478/198883011-9e74457b-4ff9-4232-ad4f-1c0365053f4c.png)
+
+Take the belt closest to the 2020 Y extrusion, and feed it into the rear drive module. If you combine pressure and turning the GT2 pulley by hand, the belt will naturally follow the 3d printed surface and come out the other side.
+
+![Fusion360_UmFg2cfLE5](https://user-images.githubusercontent.com/11861478/198883128-6e1c9a27-623f-4e71-9fc4-a2dac191967e.png)
+
+Flip the left XY joint mid piece over so that you can see the toothed grooves 3d printed into the part.
+![Fusion360_vsk3gHWyFN](https://user-images.githubusercontent.com/11861478/198883208-74c20dbc-5478-494e-8574-ca570fae50f5.png)
+![Fusion360_hWV8ZlinC8](https://user-images.githubusercontent.com/11861478/198883309-28b60e8c-98c3-4184-b8e5-ec315b0b14ef.png)
+
+
 
 Install the X axis MGN12 rail onto the 2020 extrusion. Install Tnuts as needed, and screw the X axis to the partially assembled XY joint using a M3x20 from the bottom of the XY joint. Insert a M5x40 SHCS with washer/bearing/bearing/washer into the left XY joint, and then install the XY joint upper on top. Insert the additional M5x40 SHCS and hexnuts, lightly tighten. Install the GT2 20T idler with M5x40, making sure to not tighten the screw, just screw it in until the top of the M5x40 is flush with the top of the XY joint upper.
 
