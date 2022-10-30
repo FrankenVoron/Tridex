@@ -8,13 +8,13 @@ Follow the Trident manual, skipping the Front Idler, A/B Drive, and X Axis assem
 
 ## Part 2: Drive Modules
 
-Follow PDF instructions in this folder, and then install each drive module onto the gantry:
+Follow PDF instructions in this folder for drive module assembly. Once they are completed, install each drive module onto the gantry extrusions with M5x16 BHCS and M5x10 BHCS.
 
 ![Fusion360_jOAN20uSyg](https://user-images.githubusercontent.com/11861478/198882337-b68666b8-15e0-41cd-8b73-8d8e9634e809.png)
 
 ## Part 3: Front Idlers
 
-Follow PDF instructions in this folder, and then install each front idler onto the gantry:
+Follow PDF instructions in this folder for front idler assembly. Once they are completed, install each front idler onto the gantry extrusions using M5x16 BHCS and M5x10 BHCS.
 
 ![Fusion360_WQIAOHZXhy](https://user-images.githubusercontent.com/11861478/198882399-be3b83a5-03ee-4053-9f05-458af4c4baae.png)
 
