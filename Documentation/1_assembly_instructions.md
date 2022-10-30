@@ -72,7 +72,11 @@ Once you are confident with the Y belt length, remove the Y belt, cut another Y 
 
 ## Part 5: X Axis
 
-Install the X axis MGN12 rail onto the 2020 extrusion. Install Tnuts as needed, and screw the X axis to the partially assembled XY joint using a M3x20 from the bottom of the XY joint. Insert a M5x40 SHCS with washer/bearing/bearing/washer into the left XY joint, and then install the XY joint upper on top. Insert the additional M5x40 SHCS and hexnuts, lightly tighten. Install the GT2 20T idler with M5x40, making sure to not tighten the screw, just screw it in until the top of the M5x40 is flush with the top of the XY joint upper.
+Install the X axis MGN12 rail onto the 2020 extrusion. Install Tnuts as needed (2 M5 per side on top, 1 M3 per side on bottom) and screw the X axis to the partially assembled XY joint using a M3x20 from the bottom of the XY joint:
+
+![Fusion360_LfYs2FOs7U](https://user-images.githubusercontent.com/11861478/198884492-e319640d-d1b4-4ce8-b014-dd50eba783fe.png)
+
+Insert a M5x40 SHCS with washer/bearing/bearing/washer into the left XY joint, and then install the XY joint upper on top. Insert the additional M5x40 SHCS and hexnuts, lightly tighten. Install the GT2 20T idler with M5x40, making sure to not tighten the screw, just screw it in until the top of the M5x40 is flush with the top of the XY joint upper.
 
 On the right XY joint, install the XY joint upper with M5x40, washer/bearing/bearing/washer onto the lower/mid XY joint parts. Install the rest of the M5x40 screws, as well as the GT2 20T idler. 
 
