@@ -99,17 +99,28 @@ Route an initial X belt by inserting the ends of the belts into the opening abov
 The X belt routing is similar to a standard CoreXY belt routing, except upper belt attaches to the left X carriage (T1), and the lower belt attaches to the right X carriage (T1). 
 ![Fusion360_s94B1QZMBw](https://user-images.githubusercontent.com/11861478/198885482-35005ae1-c778-4cac-900c-2c62144a22fa.png)
 
-Since the front tensioner Y accent pieces are not installed, it should be easier to route the X belts through the tensioner body. Once the belt is routed, temporarily install an X carriage and pull the X axis flush to the front of the printer, to make sure there is enough belt length. You can leave an inch or two extra belt sticking out from both ends of the belt.
+Since the front tensioner Y accent pieces are not installed, it should be easier to route the X belts through the tensioner body. 
+
+![Fusion360_Zz1pREp1Aq](https://user-images.githubusercontent.com/11861478/198885756-a158b78c-02b9-44d6-b076-436fe363f9a9.png)
+
+Once the belt is routed, temporarily install an X carriage and pull the X axis flush to the front of the printer, to make sure there is enough belt length. You can leave an inch or two extra belt sticking out of the X carriage if needed
 
 Cut the X belt, and then remove, and cut another X belt exactly the same length. Install both belts, making sure that both have the same amount of extra belt length extending from the X carriages. With this complete, install the M3x30 bolts through the X carriages to make sure both halves are fully secured. 
 
-Remove the M5x50 SHCS from the front Y idler pulleys, and finally install the Y tensioners. If the 20T idlers are offset due to Y belt tension, use an allen key or small screwdriver to push it backwards from the bottom while you insert the M5x50 back in from the top, so the pieces fit together.
+Remove the M5x50 SHCS from the front Y idler pulleys, and finally install the Y tensioners and tensioning screws
+![Fusion360_ggaEBeqQwN](https://user-images.githubusercontent.com/11861478/198885860-28b379fd-eb42-4385-8554-9b05e671ccc9.png)
+
+If you have difficulty aligning the 20T toothed idler with the M5x50 screw, use an allen key or small screwdriver to push it backwards from the bottom while you insert the M5x50 back in from the top.
 
 ## Part 7: Tensioning and Alignment
 
-With all belts installed, push the X axis backwards so it's about 3/4 of the way to the back of the printer. Pluck the Y belts (between the XY joints and front idlers) and tension them until there is a clear low bass tone, even on both sides. Pluck the X belts and tension them so they match the same tone. Push the X axis backwards and check to see if both Y endstops trigger at the same time--if they do not, slightly tweak the X belt tension until they do. If they don't reliably trigger, install the "Y Endstop Bumpers" (not yet designed) to improve Y endstop performance. 
+With all belts installed, double check all belt routing to make sure belts are fully seated on their bearings/pulleys. 
+
+Push the X axis backwards so it's about 3/4 of the way to the back of the printer. Pluck the Y belts (between the XY joints and front idlers) and tension them until there is a clear low bass tone, even on both sides. My printer is currently around 60Hz at about Y=200mm, but this is not scientific. Pluck the X belts and tension them so they match the same tone. Push the X axis backwards and check to see if both Y endstops trigger at the same time--if they do not, slightly tweak the X belt tension until they do. If they don't reliably trigger, install the "Y Endstop Bumpers" (not yet designed) to improve Y endstop performance. 
 
 Check all belt tensions again once both Y endstops are triggering at the same time. If the belt tensions are significantly different between X1/X2, loosen the screws connecting the X axis extrusion to the XY joints, recheck Y endstop triggering/belts, and once belt tension is the same across all belts and the Y endstops trigger at the same time, tighten the X axis 2020/XY joints for a final time. Check all structural bolts through the gantry to make sure they are moderately tight. DO NOT OVERTIGHTEN, just snug: M5x30 BHCS on Drive Modules (idler pulley axles), M5x40 SHCS holding idler pulleys on XY joints, M5x50 SHCS on Front Idler tensioners.
+
+Later on, recheck belt tensions once the printer has homed XY and stepper motors are engaged.
 
 ## Part 8: Nozzle Wiper Assembly
 
