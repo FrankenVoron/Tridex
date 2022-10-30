@@ -76,17 +76,30 @@ Install the X axis MGN12 rail onto the 2020 extrusion. Install Tnuts as needed (
 
 ![Fusion360_LfYs2FOs7U](https://user-images.githubusercontent.com/11861478/198884492-e319640d-d1b4-4ce8-b014-dd50eba783fe.png)
 
-Insert a M5x40 SHCS with washer/bearing/bearing/washer into the left XY joint, and then install the XY joint upper on top. Insert the additional M5x40 SHCS and hexnuts, lightly tighten. Install the GT2 20T idler with M5x40, making sure to not tighten the screw, just screw it in until the top of the M5x40 is flush with the top of the XY joint upper.
+Insert a M5x40 SHCS with washer/bearing/bearing/washer into the left XY joint:
+![Fusion360_kSubw5IJT0](https://user-images.githubusercontent.com/11861478/198884731-be100bc8-abb4-4372-a8c6-79f2d4b10549.png)
+
+Then install the XY joint upper on top. Insert the additional M5x40 SHCS, hexnuts, and GT2 20T idler:
+
+![Fusion360_KyqO03vBuD](https://user-images.githubusercontent.com/11861478/198884905-1c568a20-6a1d-48a7-b67f-d6af64c5ccd2.png)
 
 On the right XY joint, install the XY joint upper with M5x40, washer/bearing/bearing/washer onto the lower/mid XY joint parts. Install the rest of the M5x40 screws, as well as the GT2 20T idler. 
+
+![Fusion360_0UUWuQsBGq](https://user-images.githubusercontent.com/11861478/198885080-58bc8513-9279-406d-9c8f-5e26900034f8.png)
 
 ## Part 6: X Belts
 
 In preparation for the X belts, install heatset inserts into the X carriages, and install the T0 X endstop into the left carriage. Do not install bolts through the X carriage yet--it is easier to install the belts with the X carriages as two separate halves.
 
-Route an initial X belt by inserting the ends of the belts into the opening above the X pulley, fishing through the slots in the back of the drive module. The X belt routing is similar to a standard CoreXY belt routing, except upper belt attaches to the left X carriage (T1), and the lower belt attaches to the right X carriage (T1). Since the front tensioner Y accent pieces are not installed, it should be easier to route the X belts through the tensioner body. 
+Route an initial X belt by inserting the ends of the belts into the opening above the X pulley, fishing through the slots in the back of the drive module. 
 
-Once the belt is routed, temporarily install an X carriage and pull the X axis flush to the front of the printer, to make sure there is enough belt length. You can leave an inch or two extra belt sticking out from both ends of the belt.
+![Fusion360_TNfg9VQteW](https://user-images.githubusercontent.com/11861478/198885244-51033238-85ab-4f9a-b723-cae52abad99b.png)
+![Fusion360_Z8PnJcnRFt](https://user-images.githubusercontent.com/11861478/198885421-cba22325-443c-4cd1-b95c-b0081dbf400f.png)
+
+The X belt routing is similar to a standard CoreXY belt routing, except upper belt attaches to the left X carriage (T1), and the lower belt attaches to the right X carriage (T1). 
+![Fusion360_s94B1QZMBw](https://user-images.githubusercontent.com/11861478/198885482-35005ae1-c778-4cac-900c-2c62144a22fa.png)
+
+Since the front tensioner Y accent pieces are not installed, it should be easier to route the X belts through the tensioner body. Once the belt is routed, temporarily install an X carriage and pull the X axis flush to the front of the printer, to make sure there is enough belt length. You can leave an inch or two extra belt sticking out from both ends of the belt.
 
 Cut the X belt, and then remove, and cut another X belt exactly the same length. Install both belts, making sure that both have the same amount of extra belt length extending from the X carriages. With this complete, install the M3x30 bolts through the X carriages to make sure both halves are fully secured. 
 
