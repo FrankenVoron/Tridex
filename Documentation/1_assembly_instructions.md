@@ -132,12 +132,15 @@ Assemble two CW2 modules per the standard CW2 instructions. Mount your choice of
 
 For the T0 toolhead (left), print the specific toolhead_rear component in the Tridex repo along with the standard toolhead_front from the stealthburner repo. This modified toolhead_rear has a bumper extension that will allow T1 to home off of it. Note--this toolhead_rear part requires supports at this time. 
 
+<img width="751" alt="Screen Shot 2022-11-06 at 2 00 00 PM" src="https://user-images.githubusercontent.com/11861478/200189809-350e7cc1-c53f-4db6-9547-d295491be27c.png">
+
 For the T1 toolhead (right), print the standard toolhead_front and toolhead_rear from the Stealthburner repo, along with the custom X endstop mount from the Tridex repo. Mount a microswitch with lever into the X endstop mount, with wire leads extending through the toolhead_rear mount behind the hotend heatsink, where the wires will join the rest of the hotend thermistor/heater wires to travel up to CW2. Mount the X endstop mount to the toolhead body with M3 screws into the heatset inserts in the toolhead body.
+
+![image](https://user-images.githubusercontent.com/11861478/200189609-e5aad198-f358-4d96-b6a8-331558a798df.png)
 
 ![image](https://user-images.githubusercontent.com/11861478/200189629-fee2292a-66cb-4d75-bcb7-f635301dcd81.png)
 
-For the T1 toolhead (right), print the standard toolhead_front and toolhead_rear from the Stealthburner repo, along with the custom X endstop mount from the Tridex repo. Mount a microswitch with lever into the X endstop mount, with wire leads extending through the toolhead_rear mount behind the hotend heatsink, where the wires will join the rest of the hotend thermistor/heater wires to travel up to CW2. Mount the X endstop mount to the toolhead body with M3 screws into the heatset inserts in the toolhead body.![image](https://user-images.githubusercontent.com/11861478/200189609-e5aad198-f358-4d96-b6a8-331558a798df.png)
+![image](https://user-images.githubusercontent.com/11861478/200189716-aab557aa-ac67-406c-ae9b-eaf31ba75d67.png)
 
-For the T1 toolhead (right), print the standard toolhead_front and toolhead_rear from the Stealthburner repo, along with the custom X endstop mount from the Tridex repo. Mount a microswitch with lever into the X endstop mount, with wire leads extending through the toolhead_rear mount behind the hotend heatsink, where the wires will join the rest of the hotend thermistor/heater wires to travel up to CW2. Mount the X endstop mount to the toolhead body with M3 screws into the heatset inserts in the toolhead body.
 
 Assemble the Stealthburner fan assembly per the standard instructions. Double check the X carriage is sitting flush/properly with the MGN12H rail and all screws are tight--if it is not, it will create large offsets between the toolheads. Mount the CW2, Toolhead, and Stealthburner onto the X carriage, and tighten securely. Make sure any extra 2GT belt does not get pinched between the toolhead body and the X carriage, since this will create large offsets. 
