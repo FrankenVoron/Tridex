@@ -136,8 +136,6 @@ For the T1 toolhead (right), print the standard toolhead_front and toolhead_rear
 
 ![image](https://user-images.githubusercontent.com/11861478/200189629-fee2292a-66cb-4d75-bcb7-f635301dcd81.png)
 
-![image](https://user-images.githubusercontent.com/11861478/200189607-c576a15c-b209-4904-aba8-3538ef79525b.png)
-
 For the T1 toolhead (right), print the standard toolhead_front and toolhead_rear from the Stealthburner repo, along with the custom X endstop mount from the Tridex repo. Mount a microswitch with lever into the X endstop mount, with wire leads extending through the toolhead_rear mount behind the hotend heatsink, where the wires will join the rest of the hotend thermistor/heater wires to travel up to CW2. Mount the X endstop mount to the toolhead body with M3 screws into the heatset inserts in the toolhead body.![image](https://user-images.githubusercontent.com/11861478/200189609-e5aad198-f358-4d96-b6a8-331558a798df.png)
 
 For the T1 toolhead (right), print the standard toolhead_front and toolhead_rear from the Stealthburner repo, along with the custom X endstop mount from the Tridex repo. Mount a microswitch with lever into the X endstop mount, with wire leads extending through the toolhead_rear mount behind the hotend heatsink, where the wires will join the rest of the hotend thermistor/heater wires to travel up to CW2. Mount the X endstop mount to the toolhead body with M3 screws into the heatset inserts in the toolhead body.
