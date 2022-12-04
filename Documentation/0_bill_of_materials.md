@@ -4,6 +4,8 @@ Items in **bold** are new items vs. a stock Trident build
 
 Complete BOM in Progress (with Cost Delta): https://docs.google.com/spreadsheets/d/1dpyxq9-LeO-x1Jcv-8NuVuj9S6S3OHPWxxA0LcGV7Z0/edit?usp=sharing
 
+Frame Calculator: https://docs.google.com/spreadsheets/d/1rIzYha_TP3Gi2qXVKMOwO2kwf7lOrjJWvsjmtj-F2lc/edit?usp=sharing
+
 ## Core Items:
 
 - Trident Kit (250x250mm)
