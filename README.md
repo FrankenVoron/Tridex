@@ -1,6 +1,6 @@
 # Tridex
 
-<img width="880" alt="Screen_Shot_2022-10-16_at_11 43 59_AM" src="https://user-images.githubusercontent.com/11861478/196045878-15abce0f-acf1-4f9c-a138-cd220791d739.png">
+<img width="880" alt="Tridex" src="Drawings_DXF/images/tridex_full_CAD.png">
 
 ## Overview
 
@@ -12,11 +12,10 @@ While this printer *may* eventually be "release worthy" with supporting document
 
 ## Specifications
 
-Build Area: 
+Build Area 250 (300): 
 
-- Single Toolhead: 225x250x250mm
-- Dual Toolhead: 205x250x250mm
-- Mirrored/Duplication: Not currently supported with Klipper
+- Single Toolhead: 225x250x250mm (275x300x250mm)
+- Dual Toolhead: 205x250x250mm (255x300x250mm)
 
 Maximum Acceleration:
 
